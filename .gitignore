@@ -1,0 +1,11 @@
+# Env files
+.env
+
+# DockerCompose
+docker-compose.yml
+
+#db
+db/
+
+#Exclude Config File
+wordpress/wp-config.php
