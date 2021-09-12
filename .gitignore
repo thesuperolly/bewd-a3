@@ -1,8 +1,9 @@
 # Env files
 .env
 
-# DockerCompose
+# Deployment Stuff
 docker-compose.yml
+redeploy.sh
 
 #db
 db/
