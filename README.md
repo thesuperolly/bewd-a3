@@ -2,9 +2,11 @@
 ## Kate, Olly and Shane
 Repo for Back End Web Assignment 3
 
-This git repo is in sync with dev.sockbrew.design. If you update the site it will push to the repo every five minutes, meaning content like images remain in sync.
+This git repo is in sync with dev.sockbrew.design.
 
-If you push from your local it will update the dev.sockbrew.design site automatically. (Danger - don't push your local database. Also try and check if things are broken before pushing.)
+If you push from your local to this git repo's main branch it will update the dev.sockbrew.design site automatically. (Danger - don't push your local database. Also try and check if things are broken before pushing.)
+
+Work on a different branch to main and open up PR's rather than pushing directly to the main branch.
 
 ## Running Locally - Setup - Once Only
 1. Pull this repo to your local machine. 
@@ -37,4 +39,5 @@ If not - check you have a .htaccess file in your Web Root (wherever your MAMP fo
 On Linux with Apache you will need to set up mod_rewrites.
 
 ## Webhooks
+The server is using Webhooks to automatically push the main branch to the server.
 
