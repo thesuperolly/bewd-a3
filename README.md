@@ -4,7 +4,7 @@ Repo for Back End Web Assignment 3
 
 This git repo is in sync with dev.sockbrew.design.
 
-If you push from your local to this git repo's main branch it will update the dev.sockbrew.design site automatically. (Danger - don't push your local database. Also try and check if things are broken before pushing.)
+If you push from your local to this git repo's main branch it will update the dev.sockbrew.design site automatically. (Danger - don't push your local database.)
 
 Work on a different branch to main and open up PR's rather than pushing directly to the main branch.
 
