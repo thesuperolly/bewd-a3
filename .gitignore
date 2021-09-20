@@ -1,6 +1,7 @@
 # Env files
 .env
-
+.DS_store
+.htaccess
 # Deployment Stuff
 docker-compose.yml
 redeploy.sh
