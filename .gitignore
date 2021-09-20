@@ -10,3 +10,4 @@ db/
 
 #Exclude Config File
 wordpress/wp-config.php
+wordpress/.htaccess
