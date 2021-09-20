@@ -9,5 +9,6 @@ redeploy.sh
 db/
 
 #Exclude Config File
+wp-config.php
 wordpress/wp-config.php
 wordpress/.htaccess
